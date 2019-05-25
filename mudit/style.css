@@ -1,0 +1,39 @@
+.aboutme
+{
+    //position: relative;
+    //background-image: url('images/back.jpg');
+    //background-repeat: no-repeat;
+    //background-size: cover;
+    //height: 600px;
+}
+.detailsme
+{
+    font-size: 20px;
+}
+.abc
+{
+    background-image: url('images/staticmap.png');
+    height: 400px;
+}
+.mapit
+{
+    height: 400px;
+}
+.shadowit
+{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+.zoom:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+body{
+    font-family: Comic Sans MS body;
+}
+#textshadowit
+{
+    text-shadow: 2px 2px 8px #FF0000;
+}
